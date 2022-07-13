@@ -1,3 +1,3 @@
-#Kokoa clone update
+# Kokoa clone update
 
-CSS gopt so much better!
+HTML & CSS got so much fun!
