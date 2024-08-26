@@ -1,0 +1,9 @@
+{
+  "homepage": "https://woong3e.github.io/kokoa-clone/,",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
